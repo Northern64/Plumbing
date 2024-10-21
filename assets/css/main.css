@@ -2233,6 +2233,7 @@ input, select, textarea {
 
 		.icon.solid:before {
 			font-weight: 900;
+			top: -.5em;
 		}
 
 		.icon.brands:before {
@@ -2476,6 +2477,7 @@ input, select, textarea {
 			border-top: solid 2px;
 			margin: 3em 0 0 0;
 			padding: 3em 0 0 0;
+    			align-items: center;
 		}
 
 			ul.features li h3 {
